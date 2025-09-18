@@ -1,4 +1,4 @@
-A simple and fun Tic Tac Toe game built using [mention your tech stack, e.g., HTML, CSS, JavaScript / Python]. Players can enjoy the classic X vs O gameplay with a clean interface. Features include:
+A simple and fun Tic Tac Toe game built using [HTML, CSS, JavaScript]. Players can enjoy the classic X vs O gameplay with a clean interface. Features include:
 
 Two-player mode (X vs O)
 
